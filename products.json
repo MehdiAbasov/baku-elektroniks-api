@@ -5,7 +5,7 @@
         "productImage": "https://www.bakuelectronics.az/assets/images/products/82296/apple-iphone-11-128gb-black-single-4.jpg",
         "price": "1559",
         "discount": "1399.99",
-        "isSold": false
+        "isSold": true
     },
     {
         "id": 2,
@@ -13,7 +13,7 @@
         "productImage": "https://www.bakuelectronics.az/assets/images/products/103040/bhr5436gl-1.jpg",
         "price": "129",
         "discount": "169.99",
-        "isSold": false
+        "isSold": true
     },
     {
         "id": 3,
@@ -21,7 +21,7 @@
         "productImage": "https://www.bakuelectronics.az/assets/images/products/118700/apple-iphone-14-blue-1.jpg",
         "price": "1559",
         "discount": "1399.99",
-        "isSold": false
+        "isSold": true
     },
     {
         "id": 4,
@@ -29,7 +29,7 @@
         "productImage": "https://www.bakuelectronics.az/assets/images/products/103115/55027148-4.jpg",
         "price": "459.99",
         "discount": "559.99",
-        "isSold": true
+        "isSold": false
     },
     {
         "id": 5,
@@ -37,6 +37,6 @@
         "productName": "Smartfon Xiaomi Redmi Note 11 4GB/64GB Graphite Gray",
         "price": "429.99",
         "discount": "459.99",
-        "isSold": true
+        "isSold": false
     }
 ]

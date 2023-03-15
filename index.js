@@ -11,7 +11,7 @@ async function getAllProducts() {
         for (let i = 0; i < myJSONData.length; i++) {
             container.innerHTML +=
                 `
-                 <div class="product-card">
+        <div class="product-card">
             <a href="#" class="product-top">
                 <div class="product-img">
                 <img src="${myJSONData[i].productImage}"
@@ -26,7 +26,7 @@ async function getAllProducts() {
                     <h4 class="product-price"><del>${myJSONData[i].discount} <i class="fa-solid fa-manat-sign"></i></del></h4>
                 </div>
                 <div class="product-btns">
-                ${myJSONData[i].isSold ? `<button disabled class="disabled-btn">stokda yoxdur</button>` : `<button>Almaq</button>`}
+                ${myJSONData[i].isSold ? `<button>Almaq</button>` : `<button disabled class="disabled-btn">stokda yoxdur</button>`}
                     <a href="#" tabindex="1"><i tabindex="1" class="fa-regular fa-heart"></i></a>
                 </div>
             </div>
