@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "productName": "Apple iphone 11 128px BLACK SINGLE",
+        "productImage": "https://www.bakuelectronics.az/assets/images/products/82296/apple-iphone-11-128gb-black-single-4.jpg",
+        "price": "1559",
+        "discount": "1399.99",
+        "isSold": false
+    },
+    {
+        "id": 2,
+        "productName": "Smart saat Xiaomi Redmi Watch 2 Lite Black (BHR5436GL)",
+        "productImage": "https://www.bakuelectronics.az/assets/images/products/103040/bhr5436gl-1.jpg",
+        "price": "129",
+        "discount": "169.99",
+        "isSold": false
+    },
+    {
+        "id": 3,
+        "productName": "Apple iphone 14 128px NFC Blue",
+        "productImage": "https://www.bakuelectronics.az/assets/images/products/118700/apple-iphone-14-blue-1.jpg",
+        "price": "1559",
+        "discount": "1399.99",
+        "isSold": false
+    },
+    {
+        "id": 4,
+        "productName": "Smart saat HUAWEI WATCH GT 3 42MM NFC ACTIVE (55027148)",
+        "productImage": "https://www.bakuelectronics.az/assets/images/products/103115/55027148-4.jpg",
+        "price": "459.99",
+        "discount": "559.99",
+        "isSold": true
+    },
+    {
+        "id": 5,
+        "productImage": "https://www.bakuelectronics.az/assets/images/products/103138/detail.png",
+        "productName": "Smartfon Xiaomi Redmi Note 11 4GB/64GB Graphite Gray",
+        "price": "429.99",
+        "discount": "459.99",
+        "isSold": true
+    }
+]
